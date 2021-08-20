@@ -1,0 +1,7 @@
+table, th, td {
+    border-radius: 20px;
+    padding: 6px;
+  }
+  tr:nth-child(even) {background-color: black;}
+  tr:nth-child(even) {color: honeydew;}
+  tr:nth-child(odd)  {background: linear-gradient(to bottom, white, rgba(15, 15, 116, 0.308));}
